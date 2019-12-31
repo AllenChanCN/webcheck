@@ -1,16 +1,15 @@
 <template>
   <div>
-    <router-view/>
+    header
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: 'FavoriteHeader'
 }
 </script>
 
 <style lang="stylus" scoped>
-  div
-    height: 100%
+
 </style>

@@ -1,16 +1,15 @@
 <template>
   <div>
-    <router-view/>
+    list
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: 'FavoriteList'
 }
 </script>
 
 <style lang="stylus" scoped>
-  div
-    height: 100%
+
 </style>
